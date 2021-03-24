@@ -5,6 +5,7 @@ body{
   font-size: 40px;
   background-color: #FBF1ED;
   padding-top: 200px;
+  height: 120vh;
 }
 .infinite {
   width: 100%;

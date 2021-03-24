@@ -1,6 +1,6 @@
 $(document).ready(function () {
   function Stream() {
-    var scroll = 0;
+    var scroll = 10;
     function addSentences() {
       // Create and return random 'anxious' sentence
       function anxious() {
